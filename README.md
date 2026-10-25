@@ -1,6 +1,6 @@
 # Macro Checker
 
-Made by the **BeefRo** team. A lightweight Python utility designed to check macro integrity and execution. Fully transparent and safe for static analysis.
+Made by the **BeefRo** team. A lightweight Python utility designed to check macro integrity and execution. Fully transparent and safe for analysis.
 
 ## Requirements
 
