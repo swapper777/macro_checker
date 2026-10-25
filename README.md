@@ -2,6 +2,10 @@
 
 Made by the **BeefRo** team. A lightweight Python utility designed to check macro integrity and execution. Fully transparent and safe for analysis.
 
+## Links
+
+- **Discord:** [discord.gg/beefro](https://discord.gg/beefro)
+
 ## Requirements
 
 - **Python:** 3.x
