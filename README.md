@@ -4,7 +4,7 @@ Made by the **BeefRo** team. A lightweight Python utility designed to check macr
 
 ## Links
 
-- **Discord:** [discord.gg/beefro](https://discord.gg/beefro)
+- **Discord:** [discord.gg/beefro](https://discord.gg/beefro) & [muiala.lol](https://muiala.lol)
 
 ## Requirements
 
